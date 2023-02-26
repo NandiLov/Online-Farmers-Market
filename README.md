@@ -1,3 +1,5 @@
+Project by Nandila Mulilalila
+
 # Django Simple Multi-Vendor Website with Payment
 This is a simple MultiVendor e-commerce website built with Django (Ptyhon) and Stripe is added as payment processor.
 
@@ -35,18 +37,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
 
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
+Add a Star 🌟  to this 👆 Repository
 
 ## How to Install and Run this project?
 
@@ -97,7 +89,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/NandiLov/Multi-Vendor-Ecommerce-Application
+$  git clone https://github.com/NandiLov/Multi-Vendor-Ecommerce-Application.git
 
 Then, Enter the project
 ```
@@ -148,7 +140,7 @@ Then Add Email, Username and Password
 
 
 
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
+## For Projects Enquiry or Colaborations
+1. Email - nandilamul@gmail.com
+2. LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
 
