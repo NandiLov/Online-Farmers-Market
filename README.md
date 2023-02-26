@@ -1,7 +1,7 @@
 Project by Nandila Mulilalila
 
 # Django Simple Multi-Vendor Website with Payment
-This is a simple MultiVendor e-commerce website built with Django (Ptyhon) and Stripe is added as payment processor.
+This is a simple MultiVendor e-commerce website built with Django (Python) and Stripe is added as payment processor.
 
 In this website, Vendors (Stores) can register and add their products.
 
