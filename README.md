@@ -9,7 +9,7 @@ And Users can visit the product and order by paying with Debit/Credit Card (Stri
 
 Then Vendor gets the email notification about the order and should deliver the product to the customer based on the address details.
 
-
+To see images of the website, go to the Website Demo Images folder in the project
 
 And if you like this project then ADD a STAR ⭐️  to this project 👆
 created by Nandila Mulilalila 
