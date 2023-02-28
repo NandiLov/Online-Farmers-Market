@@ -1,4 +1,4 @@
-Project by Nandila Mulilalila
+Project by NANDILA MULILALILA and OKORIE DANIEL EZICHI
 
 # Django Simple Multi-Vendor Website with Payment
 This is a simple MultiVendor e-commerce website built with Django (Python) and Stripe is added as payment processor.
@@ -12,8 +12,11 @@ Then Vendor gets the email notification about the order and should deliver the p
 To see images of the website, go to the Website Demo Images folder in the project
 
 And if you like this project then ADD a STAR ⭐️  to this project 👆
-created by Nandila Mulilalila 
-https://github.com/NandiLov
+created by:
+
+NANDILA MULILALILA : https://github.com/NandiLov
+and 
+OKORIE DANIEL EZICHI : https://github.com/zichdan
 
 ## Features of this Project
 
@@ -143,6 +146,13 @@ Then Add Email, Username and Password
 
 
 ## For Projects Enquiry or Colaborations
-1. Email - nandilamul@gmail.com
-2. LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
+1. NAME - NANDILA MULILALILA
+2. Email - nandilamul@gmail.com
+3. LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
+4. Github: https://github.com/NandiLov
+
+1. Name: OKORIE DANIEL EZICHI
+2. Email: zichdan1999@gmail.com
+3. LinkedIn: https://www.linkedin.com/in/daniel-ezichi/ 
+4. Github: https://github.com/zichdan
 
