@@ -146,12 +146,12 @@ Then Add Email, Username and Password
 
 
 ## For Projects Enquiry or Colaborations
- NAME - NANDILA MULILALILA
+1. NAME - NANDILA MULILALILA
  Email - nandilamul@gmail.com
  LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
  Github: https://github.com/NandiLov
 
- Name: OKORIE DANIEL EZICHI
+2. Name: OKORIE DANIEL EZICHI
  Email: zichdan1999@gmail.com
  LinkedIn: https://www.linkedin.com/in/daniel-ezichi/ 
  Github: https://github.com/zichdan
