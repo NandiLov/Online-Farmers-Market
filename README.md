@@ -147,12 +147,12 @@ Then Add Email, Username and Password
 
 ## For Projects Enquiry or Colaborations
 1. NAME - NANDILA MULILALILA
-2. Email - nandilamul@gmail.com
-3. LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
-4. Github: https://github.com/NandiLov
+ Email - nandilamul@gmail.com
+ LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
+ Github: https://github.com/NandiLov
 
-1. Name: OKORIE DANIEL EZICHI
-2. Email: zichdan1999@gmail.com
-3. LinkedIn: https://www.linkedin.com/in/daniel-ezichi/ 
-4. Github: https://github.com/zichdan
+2. Name: OKORIE DANIEL EZICHI
+ Email: zichdan1999@gmail.com
+ LinkedIn: https://www.linkedin.com/in/daniel-ezichi/ 
+ Github: https://github.com/zichdan
 
