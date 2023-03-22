@@ -44,7 +44,7 @@ NANDILA MULILALILA : https://github.com/NandiLov
 Add a Star 🌟  to this 👆 Repository
 
 ## For Projects Enquiry or Colaborations
-1. NAME - NANDILA MULILALILA
+ NAME - NANDILA MULILALILA
  Email - nandilamul@gmail.com
  LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
  Github: https://github.com/NandiLov
