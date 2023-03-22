@@ -1,4 +1,4 @@
-Project by NANDILA MULILALILA and OKORIE DANIEL EZICHI
+Project by NANDILA MULILALILA.
 
 # Django Simple Multi-Vendor Website called Online Farmers Market
 This is a simple MultiVendor e-commerce website built with Django (Python) and Stripe is added as payment processor.
@@ -15,8 +15,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 created by:
 
 NANDILA MULILALILA : https://github.com/NandiLov
-and 
-OKORIE DANIEL EZICHI : https://github.com/zichdan
 
 ## Features of this Project
 
@@ -50,9 +48,4 @@ Add a Star 🌟  to this 👆 Repository
  Email - nandilamul@gmail.com
  LinkedIn - [Nandila Mulilalila](https://www.linkedin.com/in/nandila-mulilalila-184595214/")
  Github: https://github.com/NandiLov
-
-2. Name: OKORIE DANIEL EZICHI
- Email: zichdan1999@gmail.com
- LinkedIn: https://www.linkedin.com/in/daniel-ezichi/ 
- Github: https://github.com/zichdan
 
