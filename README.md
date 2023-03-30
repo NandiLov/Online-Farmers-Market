@@ -9,12 +9,10 @@ And Users(customers) can visit the product and order by paying with Debit/Credit
 
 Then Vendor gets the email notification about the order and should deliver the product to the customer based on the address details.
 
-To see images of the website, go to the Website Demo Images folder in the project
+This is the link to the live website:
+nandilov.pythonanywhere.com
 
-And if you like this project then ADD a STAR ⭐️  to this project 👆
-created by:
-
-NANDILA MULILALILA : https://github.com/NandiLov
+To see images of the website, go to the Website Demo Images folder in the project.
 
 ## Features of this Project
 
