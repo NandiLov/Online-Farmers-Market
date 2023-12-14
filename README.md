@@ -10,7 +10,7 @@ And Users(customers) can visit the product and order by paying with Debit/Credit
 Then Vendor gets the email notification about the order and should deliver the product to the customer based on the address details.
 
 This is the link to the live website:
-## nandilov.pythonanywhere.com
+## [nandilov.pythonanywhere.com](http://nandilov.pythonanywhere.com/)
 
 To see images of the website, go to the Website Demo Images folder in the project.
 
